@@ -158,18 +158,6 @@ scikit-learn
 
 ---
 
-## Contributing
-
-Contributions, issues and feature requests are welcome. Feel free to open an issue or submit a pull request.
-
----
-
-## License
-
-Add your preferred license here (for example, MIT), and include a `LICENSE` file in the repository.
-
----
-
 ## Author
 
-Made by **<your-name>**. Replace this with your name and links (GitHub, LinkedIn).
+Made by **<Mou Samaddar>**.

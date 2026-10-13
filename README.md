@@ -160,4 +160,4 @@ scikit-learn
 
 ## Author
 
-Made by **<Mou Samaddar>**.
+Made by **<MouSamaddar>**.
